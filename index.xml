@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loot For Space</title>
+    <link>https://www.lootforspace.com/</link>
+    <description>Recent content on Loot For Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://www.lootforspace.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Bag #0001</title>
+      <link>https://www.lootforspace.com/collection/bag1/</link>
+      <pubDate>Sat, 02 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/collection/bag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Bag #0002</title>
+      <link>https://www.lootforspace.com/collection/bag2/</link>
+      <pubDate>Sat, 02 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/collection/bag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Bag #0003</title>
+      <link>https://www.lootforspace.com/collection/bag3/</link>
+      <pubDate>Sat, 02 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/collection/bag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Bag #0004</title>
+      <link>https://www.lootforspace.com/collection/bag4/</link>
+      <pubDate>Sat, 02 Oct 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/collection/bag4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Available on OpenSea Soon</title>
+      <link>https://www.lootforspace.com/opensea/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/opensea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contract Launching Soon</title>
+      <link>https://www.lootforspace.com/contract/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/contract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://www.lootforspace.com/faqs/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      
+      <guid>https://www.lootforspace.com/faqs/</guid>
+      <description>What is Loot For Space? Loot For Space is a collection of 8,000 unique bags of space explorer gear. At release, anyone can claim loot bags for just gas. Each loot bag contains upto 8 items: a piece for an explorer&amp;rsquo;s chest, foot, hand, head, a weapon, potentially an item and a special item for the very lucky.
+A derivative of Loot, provides a space themed alternative to explore the known universe.</description>
+    </item>
+    
+  </channel>
+</rss>
